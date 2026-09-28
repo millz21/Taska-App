@@ -1,0 +1,6 @@
+{
+  "name": "Taska",
+  "description": "The chat-first local marketplace. Tell Taska what you need done, match with verified local Taskers, and book privately.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

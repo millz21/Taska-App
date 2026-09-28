@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Taska</string>
+    <string name="tagline_chat_first">THE CHAT-FIRST MARKETPLACE</string>
+    <string name="hero_title_prefix">What do you\nneed </string>
+    <string name="hero_title_italic">done?</string>
+    <string name="hero_subtitle">Tell Taska what you need like you would tell a friend. Find local help, book privately, and get it done.</string>
+    <string name="trust_banner">NO PHONE NUMBERS SHARED  •  CHAT-FIRST BOOKING  •  LOCAL TASKERS  •  BUILT TO GROW</string>
+    <string name="nav_ask_taska">Ask Taska</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_bookings">Bookings</string>
+    <string name="nav_tasker">Tasker</string>
+    <string name="placeholder_ask_taska">Ask Taska anything…</string>
+    <string name="privacy_shield_title">Taska protects your details</string>
+    <string name="privacy_headline_prefix">Work with people.\n</string>
+    <string name="privacy_headline_italic">Not random numbers.</string>
+    <string name="earn_headline">Earn your way.</string>
+    <string name="three_ways_headline">Three ways to be a Tasker</string>
+    <string name="footer_motto">Type it. Taska it. Done.</string>
+</resources>
